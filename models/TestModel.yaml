@@ -9,10 +9,11 @@ oneOf:
           id: 7m46fw1833x5u
   - x-stoplight:
       id: vl0kqncevwai5
+    description: edit
     properties:
       Test:
         type: string
         x-stoplight:
           id: usreh9h54obx6
-type: object
 description: Modelling
+type: object
